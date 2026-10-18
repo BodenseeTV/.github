@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo.jpg" width="400" alt="BodenseeTV Logo">
+<img src="../logo.jpg" width="400" alt="BodenseeTV Logo">
 
 # BodenseeTV
 
