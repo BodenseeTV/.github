@@ -3,8 +3,6 @@
 
 # BodenseeTV
 
-*Das Lokalfernsehen vom Untersee*
-
 https://bodenseetv.ch/
 </div>
 
